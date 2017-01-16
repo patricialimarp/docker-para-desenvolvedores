@@ -1,4 +1,4 @@
-# Prefácio
+# Prefácio novo
 
 No desenvolvimento de software é comum criar-se boas práticas a padrões.
 Em específico a aplicações web, certos conceitos e práticas como DevOps, infraestrutura em Nuvem, phoenix, imutável e 12 factor apps são teorias bem aceitas que ajudam na produtividade e manutenção dos sistemas. Por serem conceitos não tão novos, são muitas as ferramentas e sistemas que podem auxiliar na implantação desses. Mas Docker é uma das primeiras e mais comentadas ferramentas e plataformas que combina tantos desses conceitos de maneira coesa e relativamente simples de usar.
