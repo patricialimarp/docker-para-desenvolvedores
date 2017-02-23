@@ -25,7 +25,7 @@ Essas duas dependências estão especificadas no arquivo requirements.txt e, ess
 
 “O PIP é um sistema de gerenciamento de pacotes usado para instalar e gerenciar pacotes de software escritos na linguagem de programação Python”. (Wikipedia)
 
-O comando PIP é usado, junto ao arquivo requirements.txt, na criação da imagem, como demonstrado no Dockerfile da boa prática anterior (codebase):
+O comando pip é usado, junto ao arquivo requirements.txt, na criação da imagem, como demonstrado no Dockerfile da boa prática anterior (codebase):
 
 ```
 FROM python:2.7
